@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AndreyDrozd007/H2-NPM-package-training/issues"
   },
-  "homepage": "https://github.com/AndreyDrozd007/H2-NPM-package-training#readme"
+  "homepage": "https://github.com/AndreyDrozd007/H2-NPM-package-training#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
